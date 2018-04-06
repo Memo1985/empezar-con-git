@@ -1,7 +1,11 @@
-# Titulo 1
+# Título 1
 
-## seccion 1 Introduccion
+## Sección 1 Introducción
 
-esta es la primera linea original de texto, y  ya no termina aqui. Ahora termina aqui.
+Esta es la primer línea original de texto, y ya no termina aquí. Ahora termina aquí.
 
-Ademas, añadimos esta linea 
+Además, añadimos esta línea.
+
+## Sección 2 Marco teórico
+
+Aquí irá el marco teórico en el original.
